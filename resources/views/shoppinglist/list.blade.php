@@ -31,7 +31,7 @@
                 <button>「買うもの」を登録する</button>
             </form>
 
-        <h1>「買うもの」の一覧</h1>
+        <h1>「買うもの」一覧</h1>
         <!-- <a href="/shopping_list/csv/download">CSVダウンロード</a><br> -->
         <!-- Chapter15 v1.1.0「完了「買うもの」一覧追加」 -->
         <a href="/completed_shopping_list/list">購入済み「買うもの」一覧</a><br>
